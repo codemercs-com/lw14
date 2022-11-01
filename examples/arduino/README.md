@@ -1,1 +1,1 @@
-# lw14
+Example projects for arduino or ESP devices by using the I2C-interface.
