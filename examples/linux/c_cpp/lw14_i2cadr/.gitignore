@@ -1,0 +1,14 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.so
+*.a
+
+# Directories
+.vscode/
+
+# Misc
+*.txt
+*.log
